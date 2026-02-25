@@ -1,0 +1,37 @@
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+
+# Model weights (download separately)
+*.pt
+*.pth
+*.onnx
+*.engine
+
+# Generated outputs
+runs/
+output_segmentation/
+videos/
+
+# IDE / Editor
+.vscode/
+.idea/
+*.code-workspace
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Old versions
+Prototype (Copy)/
