@@ -126,4 +126,4 @@ MIT License - see [LICENSE](LICENSE) for details.
 
 **Alexander Assal** - Research Assistant, Autonomous Vehicle Laboratory
 California State Polytechnic University, Pomona
-[alexander@assalfamily.com](mailto:alexander@assalfamily.com) | [LinkedIn](https://www.linkedin.com/in/alexanderassal55)
+[alexander@assalfamily.com](mailto:alexander@assalfamily.com) | [LinkedIn](https://www.linkedin.com/in/alexanderassal)
